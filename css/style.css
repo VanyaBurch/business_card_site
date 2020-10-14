@@ -106,3 +106,10 @@ span {
         opacity: 0;
     }
 }
+
+@media (max-width: 576px) {
+    .text_container  {
+        display: inline-block;
+        text-align: center;
+    }
+}
